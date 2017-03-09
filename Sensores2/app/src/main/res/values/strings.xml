@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensor: Acelerometro</string>
+    <string name="agitar">Agite para cambiar de color</string>
+</resources>
